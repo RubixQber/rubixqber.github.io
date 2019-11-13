@@ -1,0 +1,42 @@
+h1 {
+  text-align: center;
+  font-size: 2em;
+  color: #009;
+  margin-bottom: .3em;
+  text-decoration: underline;
+  font-family: Comic Sans MS, cursive, sans-serif;;
+}
+
+p {
+  text-align: center;
+  font-size: 1em;
+  color: #009;
+  margin-bottom: .3em;
+  text-decoration: underline;
+  font-family: Comic Sans MS, cursive, sans-serif;;
+}
+
+table {
+  margin: .3em;
+  width: 290px;
+}
+
+th {
+  padding: .2em;
+}
+
+td {
+  padding-left: .5em;
+  padding-right: .5em;
+  border: 1px solid #900;
+  background-color: #ffc;
+}
+
+#trHeader {
+  text-decoration: underline;
+  color: #900;
+}
+
+.centerCell {
+  text-align: center;
+}
