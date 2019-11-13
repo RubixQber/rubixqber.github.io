@@ -16,6 +16,14 @@ h1 {
   font-family: "Comic Sans MS", cursive, sans-serif;
 }
 
+p {
+  text-align: left;
+  font-size: 1em;
+  color: white;
+  margin-bottom: .3em;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
 table {
   margin: .3em;
   width: 290px;
