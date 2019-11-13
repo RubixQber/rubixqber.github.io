@@ -1,15 +1,16 @@
-h1 {
+body {
+  background-color: lightblue;
   text-align: center;
-  font-size: 2em;
+  font-size: 1em;
   color: #009;
   margin-bottom: .3em;
   text-decoration: underline;
   font-family: "Comic Sans MS", cursive, sans-serif;
 }
 
-p {
+h1 {
   text-align: center;
-  font-size: 1em;
+  font-size: 2em;
   color: #009;
   margin-bottom: .3em;
   text-decoration: underline;
